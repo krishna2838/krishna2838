@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi There! 👋 I'm Krishna Ghodke</h1>
+<h3 align="center">Building with intention 🚀</h3>
 
-<!--
-**krishna2838/krishna2838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student passionate about tech  
+- 💡 Interested in building real-world projects  
+- 🚀 Currently learning Python & Web Development  
+- 📈 Focus: Consistency and growth  
+
+
+⚙️ Tech Stack
+
+- 💻 Python, C++  
+- 🌐 HTML, CSS, JavaScript  
+- ⚡ Git & GitHub  
+
+
+🌐 Connect with Me
+
+- 💼 LinkedIn: (add your link)
+- 📧 Email: (add your email)
