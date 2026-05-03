@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Hi%20There!%20I%20am%20Krishna%20Ghodke&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://raw.githubusercontent.com/krishna2838/krishna2838/main/banner.png" />
 </p>
+<h1 align="left">Hi There! 👋</h1>
+<h2 align="left">I am Krishna Ghodke</h2>
 
 
 
