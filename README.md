@@ -2,13 +2,9 @@
   <img src="https://raw.githubusercontent.com/krishna2838/krishna2838/main/banner.png" />
 </p>
 
+ABOUT ME
 
-👨‍💻 About Me
-
-- 🎓 Student passionate about tech  
-- 💡 Interested in building real-world projects  
-- 🚀 Currently learning Python & Web Development  
-- 📈 Focus: Consistency and growth  
+I am Krishna Ghodke, a BTech Computer Science student at MIT ADT University. I’m passionate about building full-stack applications and modern websites, and I focus on clean code, problem-solving, and continuous learning through real-world projects and consistent practice.
 
 
 ⚙️ Tech Stack
