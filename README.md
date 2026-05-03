@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/krishna2838/krishna2838/main/banner.png" />
 </p>
-<h1 align="left">Hi There! 👋</h1>
-<h2 align="left">I am Krishna Ghodke</h2>
-
 
 
 👨‍💻 About Me
